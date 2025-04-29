@@ -9,7 +9,7 @@ You might recall that the purpose of having a security plan is to be prepared fo
 
 Be sure to complete this activity before moving on. The next course item will provide you with a completed exemplar to compare to your own work.
 
-Scenario
+Scenario:
 
 Review the following scenario. Then complete the step-by-step instructions.
 
